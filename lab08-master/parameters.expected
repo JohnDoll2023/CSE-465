@@ -1,0 +1,21 @@
+
+Please enter a number for a: 
+ERROR - Invalid number.
+Please enter a number for a:
+ERROR - Invalid number.
+Please enter a number for a:
+ERROR - Invalid number.
+Please enter a number for a:
+a has been set to 10
+
+Please enter number for b : 
+ERROR - Invalid number.
+Please enter a number for b:
+ERROR - Invalid number.
+Please enter a number for b:
+ERROR - Invalid number.
+Please enter a number for b:
+b has been set to 15
+
+Before: a=10     and b=15    
+After : a=15     and b=10    

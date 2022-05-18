@@ -1,0 +1,19 @@
+Read in: 1,-2,3,-4,10,11,-7,18
+To Int: 1,-2,3,-4,10,11,-7,18
+Cubed: 1,-8,27,-64,1000,1331,-343,5832
+1      - Odd
+1      - Positive
+-8     - Even
+-8     - Negative
+27     - Odd
+27     - Positive
+-64    - Even
+-64    - Negative
+1000   - Even
+1000   - Positive
+1331   - Odd
+1331   - Positive
+-343   - Odd
+-343   - Negative
+5832   - Even
+5832   - Positive
